@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { PokemonCard } from "../../PokemonCard";
+import { PokemonCard } from "../../components/PokemonCard";
 import { useQueryPokemonPage } from "../../hooks/useQueryPokemonPage";
 import { Container } from "./style";
 
